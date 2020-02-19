@@ -1,2 +1,4 @@
 this is example for reset hard command for reset for undoing 
 last file is upload 
+
+test for merge commit
